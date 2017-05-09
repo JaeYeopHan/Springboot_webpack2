@@ -3,13 +3,13 @@
 ## Intoduction
 * SpringBoot
   * Build Tool: Gradle
-  * Template Engine: handlebars
 
 * Webpack2
   * ES6 with babel
   
 * Other
   * Swagger
+  * HotMoudleReplacement (about .js file)
   
 
 ## Set up
