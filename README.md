@@ -19,7 +19,5 @@ $ git clone
 $ cd 
 $ npm install
 ```
-
-
-### Reference
-https://github.com/pcardune/handlebars-loader
+## LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
