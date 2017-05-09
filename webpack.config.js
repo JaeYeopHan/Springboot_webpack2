@@ -43,6 +43,8 @@ module.exports = {
                 fallback: 'style-loader',
                 use: 'css-loader'
             })
+        }, {
+            test: /\.hbs/, loader: "handlebars-loader"
         }]
     },
 
@@ -60,7 +62,6 @@ module.exports = {
         }),
         new HtmlWebpackPlugin({
             template: './index.html',
-            // template: '../templates/index.hbs',
             minify: {
                 collapseWhitespace: true,
                 keepClosingSlash: true,
