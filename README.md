@@ -14,9 +14,9 @@
 
 ## Set up
 ```bash
-$ mkdir springboot_webpack && springboot_webpack
-$ git clone
-$ cd 
+$ mkdir springboot_webpack && cd springboot_webpack
+$ git clone https://github.com/JaeYeopHan/Springboot_webpack2.git
+$ cd Springboot_webpack2
 $ npm install
 ```
 ## LICENSE
