@@ -1,5 +1,5 @@
 # SpringBoot project scaffolding with Webpack2
-
+This Repository is a scaffolding project for using the Springpack framework and Webpack together.
 ## Intoduction
 * SpringBoot
   * Build Tool: Gradle
